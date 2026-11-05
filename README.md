@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## My name is RJ Wagner. I am a senior at the University of Pittsburgh studying Information Science with a focus in Cybersecurity, as well as Japanese language. 
 <!--
 **rjwags/rjwags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
