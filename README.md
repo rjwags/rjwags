@@ -1,4 +1,6 @@
 ## My name is RJ Wagner. I am a senior at the University of Pittsburgh studying Information Science with a focus in Cybersecurity, as well as Japanese language. 
+
+On my Github, I will try to post my projects as I get to them. Many of my projects are not exactly coding based, but instead are security and system administration focused. I still want to share them as I am proud of how some of them have turned out!
 <!--
 **rjwags/rjwags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
